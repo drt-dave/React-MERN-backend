@@ -2,3 +2,9 @@ node_modules/
 
 
 .env
+
+
+# Ignorar archivos de búfer de Vim
+*.swp
+*.swo
+*.sw?
